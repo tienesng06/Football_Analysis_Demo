@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# YOLO / training outputs
+runs/
+datasets/
+training/
+*.pt
+*.pkl
+
+# Videos & large files
+*.mp4
+*.avi
+
+# OS
+.DS_Store
+Thumbs.db
